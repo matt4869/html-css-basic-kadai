@@ -76,7 +76,7 @@ a:visited {
 }
 
 @media screen and (max-width: 768px) {
-  div {
+  #parent {
     display: block;
   }
    h2 {
